@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# environments
+.venv/
+venv/
+env/
+conda_env/
+
+# IDE / system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+runs/
+wandb/
+
+# output results
+outputs/
+result/
+results/
+
+# data files
+data/raw/
+data/interim/
+data/processed/
+data/embeddings/
+data/go_predict/embeddings/
+
+# pretrained weights
+pretrained/
+
+# model weights / checkpoints / large tensors
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.h5
+*.npy
+*.npz
+
+# secrets
+.env
+*.key
+*.pem

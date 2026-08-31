@@ -1,0 +1,18 @@
+--- 类别: bp ---
+bp_train_final.txt: PID=1387, GO=2295
+bp_test_final.txt: PID=173, GO=609
+bp_val_final.txt: PID=173, GO=565
+该类别汇总(seqid_50/bp): PID=1733, GO=2456
+
+--- 类别: cc ---
+cc_train_final.txt: PID=2440, GO=388
+cc_test_final.txt: PID=305, GO=206
+cc_val_final.txt: PID=305, GO=220
+该类别汇总(seqid_50/cc): PID=3050, GO=425
+
+--- 类别: mf ---
+mf_train_final.txt: PID=2505, GO=422
+mf_test_final.txt: PID=313, GO=146
+mf_val_final.txt: PID=313, GO=150
+该类别汇总(seqid_50/mf): PID=3131, GO=444
+
